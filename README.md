@@ -14,4 +14,4 @@ To inspect the networks available, following commands can be used:
 ``data(package = ‘networkdata’)``         
 ``show_networks()``
                  
-Three networks chosed are:  **Brunson Corporate Leadership network**, **Radoslaw Email network**, and **Residence Hall Friendship network**. Brunson Corporate Leadership network is undirected and has 44 nodes, while Radoslaw Email and Residence Hall Friendship network are directed with 167 and 217 nodes respectively. Thus, they have some variations in terms of the size and direction for further analysis (see Report.pdf).
+Three networks that I chosed are:  **Brunson Corporate Leadership network**, **Radoslaw Email network**, and **Residence Hall Friendship network**. Brunson Corporate Leadership network is undirected and has 44 nodes, while Radoslaw Email and Residence Hall Friendship network are directed with 167 and 217 nodes respectively. Thus, they have some variations in terms of the size and direction for further analysis (see Report.pdf).
